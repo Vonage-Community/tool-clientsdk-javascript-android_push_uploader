@@ -1,5 +1,7 @@
 # Android Push Notification Certificate Uploader
 
+## ❗❗❗ **This repo is now deprecated. You can now upload your credentials on the [Vonage API Dashboard](https://dashboard.nexmo.com/applications) via your Vonage Applications's settings page**
+
 This project is an online alternative for uploading your Android push certificates to Vonage. You can learn more about it in the [push notifications guide](https://developer.vonage.com/en/vonage-client-sdk/set-up-push-notifications/android#connect-your-vonage-application-to-firebase).
 
 The iOS version of this tool can be found [on Github](https://github.com/Vonage-Community/tool-clientsdk-javascript-ios_push_uploader).
